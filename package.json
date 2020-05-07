@@ -1,0 +1,22 @@
+{
+    "name": "@bobboteck/ros-jetson-stats-webcomponent",
+    "version": "1.0.0",
+	"description": "Jetson Stats Web Component based on ROS",
+	"main": "index.js",
+	"author": 
+	{
+		"name": "Roberto D'Amico",
+		"email": "roberto.damico@officinerobotiche.it",
+		"url": "https://bobboteck.github.io/"
+	},
+	"license": "MIT",
+	"repository": 
+	{
+		"type": "git",
+		"url": "https://github.com/bobboteck/ros-jetson-stats-webcomponent.git"
+	},
+	"publishConfig": 
+	{
+		"registry": "https://npm.pkg.github.com/"
+	}
+}
