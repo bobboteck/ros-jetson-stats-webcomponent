@@ -1,6 +1,6 @@
 # ros-jetson-stats-webcomponent
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a83b3c91b548453f953a8e06896b3a4b)](https://app.codacy.com/manual/bobboteck/ros-jetson-stats-webcomponent?utm_source=github.com&utm_medium=referral&utm_content=bobboteck/ros-jetson-stats-webcomponent&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a83b3c91b548453f953a8e06896b3a4b)](https://app.codacy.com/manual/bobboteck/ros-jetson-stats-webcomponent?utm_source=github.com&utm_medium=referral&utm_content=bobboteck/ros-jetson-stats-webcomponent&utm_campaign=Badge_Grade_Settings) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/bobboteck/ros-jetson-stats-webcomponent) ![GitHub file size in bytes](https://img.shields.io/github/size/bobboteck/ros-jetson-stats-webcomponent/src/index.js) ![GitHub All Releases](https://img.shields.io/github/downloads/bobboteck/ros-jetson-stats-webcomponent/total)
 
 ## About
 
